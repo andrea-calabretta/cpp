@@ -1,6 +1,6 @@
 #include <iostream>
 #include <map>
-#include <string>
+
 using namespace std;
 
 class Studente
