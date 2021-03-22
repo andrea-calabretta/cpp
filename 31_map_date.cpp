@@ -40,7 +40,7 @@ class Date
 		    return true;
 		  else if (anno == d.anno)
 		  {
-		    if (mese < d.anno)
+		    if (mese < d.mese)
 		      return true;
 		    else if (mese == d.mese)
 		      return (giorno < d.giorno);
