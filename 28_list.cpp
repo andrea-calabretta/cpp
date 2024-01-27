@@ -10,9 +10,9 @@ class Studente{
 
   public:
     Studente(string n, string c, string mat){
-	nome = n;
-	cognome = c;
-	matricola = mat;
+			nome = n;
+			cognome = c;
+			matricola = mat;
     }
     
     void print(){
